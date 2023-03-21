@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.js": "/static/js/main.5c585d60.js",
-    "static/media/facade-of-aged-grand-cathedral-with-dome-on-river-shore-5273642.webp": "/static/media/facade-of-aged-grand-cathedral-with-dome-on-river-shore-5273642.2cac1d6b36ab97a1f955.webp",
-    "static/media/U_b-eSviHvs.webp": "/static/media/U_b-eSviHvs.f2e89ea7615e7b4ed708.webp",
-    "static/media/woman-in-orange-coat-with-black-and-brown-scarf-5418305.webp": "/static/media/woman-in-orange-coat-with-black-and-brown-scarf-5418305.8e1fa2d5177ddcfaaccd.webp",
-    "static/media/a-man-and-woman-wearing-angel-costumes-8513040.webp": "/static/media/a-man-and-woman-wearing-angel-costumes-8513040.e0e2d0398a5c437df407.webp",
-    "static/media/woman-in-blue-tank-top-and-man-in-red-shirt-painting-3795022.webp": "/static/media/woman-in-blue-tank-top-and-man-in-red-shirt-painting-3795022.3aba9afd1f1d319bd85a.webp",
-    "static/media/man-and-woman-reading-book-while-sitting-on-pews-8468470.webp": "/static/media/man-and-woman-reading-book-while-sitting-on-pews-8468470.d623775285b02597fa9e.webp",
-    "static/media/a-statue-holding-a-holy-book-5613134.webp": "/static/media/a-statue-holding-a-holy-book-5613134.b41cee866974bb7c14c8.webp",
-    "static/media/people-sitting-on-brown-pews-8674151.webp": "/static/media/people-sitting-on-brown-pews-8674151.223c2d82d901d606fc7a.webp",
-    "static/media/a-bearded-man-praying-5206040.webp": "/static/media/a-bearded-man-praying-5206040.ba2b16a36e091a8248c2.webp",
-    "static/media/Icon-2.svg": "/static/media/Icon-2.abfff371b505f013d887e18b6859908d.svg",
-    "static/media/fashion-man-love-people-5875438.webp": "/static/media/fashion-man-love-people-5875438.6e69f842a88fa6af88b9.webp",
-    "static/media/man-people-woman-connection-6276711.webp": "/static/media/man-people-woman-connection-6276711.40ef98fc876421ab6e4d.webp",
-    "static/media/Icon.svg": "/static/media/Icon.ba41fc7260f173231c6bf8f75b9649f2.svg",
-    "static/media/Icon-1.svg": "/static/media/Icon-1.7b7c90b268be275fd0baa00a3112dd94.svg",
-    "static/media/Quotes.svg": "/static/media/Quotes.58cbf2b1cfec4ca93c71913035b060b4.svg",
-    "static/media/Clock.svg": "/static/media/Clock.5725f88a9b5cc2a41ff37fa0f0a6c241.svg",
-    "index.html": "/index.html",
-    "static/media/Shape.svg": "/static/media/Shape.3da71202e7d23dbb32a01014f72b8e62.svg",
-    "static/media/Marker.svg": "/static/media/Marker.72da210ed1e3792471733030a340859a.svg",
-    "main.5c585d60.js.map": "/static/js/main.5c585d60.js.map"
+    "main.js": "/finsweet/static/js/main.d0e58e2c.js",
+    "static/media/facade-of-aged-grand-cathedral-with-dome-on-river-shore-5273642.webp": "/finsweet/static/media/facade-of-aged-grand-cathedral-with-dome-on-river-shore-5273642.2cac1d6b36ab97a1f955.webp",
+    "static/media/U_b-eSviHvs.webp": "/finsweet/static/media/U_b-eSviHvs.f2e89ea7615e7b4ed708.webp",
+    "static/media/woman-in-orange-coat-with-black-and-brown-scarf-5418305.webp": "/finsweet/static/media/woman-in-orange-coat-with-black-and-brown-scarf-5418305.8e1fa2d5177ddcfaaccd.webp",
+    "static/media/a-man-and-woman-wearing-angel-costumes-8513040.webp": "/finsweet/static/media/a-man-and-woman-wearing-angel-costumes-8513040.e0e2d0398a5c437df407.webp",
+    "static/media/woman-in-blue-tank-top-and-man-in-red-shirt-painting-3795022.webp": "/finsweet/static/media/woman-in-blue-tank-top-and-man-in-red-shirt-painting-3795022.3aba9afd1f1d319bd85a.webp",
+    "static/media/man-and-woman-reading-book-while-sitting-on-pews-8468470.webp": "/finsweet/static/media/man-and-woman-reading-book-while-sitting-on-pews-8468470.d623775285b02597fa9e.webp",
+    "static/media/a-statue-holding-a-holy-book-5613134.webp": "/finsweet/static/media/a-statue-holding-a-holy-book-5613134.b41cee866974bb7c14c8.webp",
+    "static/media/people-sitting-on-brown-pews-8674151.webp": "/finsweet/static/media/people-sitting-on-brown-pews-8674151.223c2d82d901d606fc7a.webp",
+    "static/media/a-bearded-man-praying-5206040.webp": "/finsweet/static/media/a-bearded-man-praying-5206040.ba2b16a36e091a8248c2.webp",
+    "static/media/Icon-2.svg": "/finsweet/static/media/Icon-2.abfff371b505f013d887e18b6859908d.svg",
+    "static/media/fashion-man-love-people-5875438.webp": "/finsweet/static/media/fashion-man-love-people-5875438.6e69f842a88fa6af88b9.webp",
+    "static/media/man-people-woman-connection-6276711.webp": "/finsweet/static/media/man-people-woman-connection-6276711.40ef98fc876421ab6e4d.webp",
+    "static/media/Icon.svg": "/finsweet/static/media/Icon.ba41fc7260f173231c6bf8f75b9649f2.svg",
+    "static/media/Icon-1.svg": "/finsweet/static/media/Icon-1.7b7c90b268be275fd0baa00a3112dd94.svg",
+    "static/media/Quotes.svg": "/finsweet/static/media/Quotes.58cbf2b1cfec4ca93c71913035b060b4.svg",
+    "static/media/Clock.svg": "/finsweet/static/media/Clock.5725f88a9b5cc2a41ff37fa0f0a6c241.svg",
+    "index.html": "/finsweet/index.html",
+    "static/media/Shape.svg": "/finsweet/static/media/Shape.3da71202e7d23dbb32a01014f72b8e62.svg",
+    "static/media/Marker.svg": "/finsweet/static/media/Marker.72da210ed1e3792471733030a340859a.svg",
+    "main.d0e58e2c.js.map": "/finsweet/static/js/main.d0e58e2c.js.map"
   },
   "entrypoints": [
-    "static/js/main.5c585d60.js"
+    "static/js/main.d0e58e2c.js"
   ]
 }
