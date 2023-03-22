@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/finsweet/static/js/main.c6d92617.js",
+    "main.js": "/finsweet/static/js/main.c7612a39.js",
     "static/media/facade-of-aged-grand-cathedral-with-dome-on-river-shore-5273642.webp": "/finsweet/static/media/facade-of-aged-grand-cathedral-with-dome-on-river-shore-5273642.2cac1d6b36ab97a1f955.webp",
     "static/media/U_b-eSviHvs.webp": "/finsweet/static/media/U_b-eSviHvs.f2e89ea7615e7b4ed708.webp",
     "static/media/woman-in-orange-coat-with-black-and-brown-scarf-5418305.webp": "/finsweet/static/media/woman-in-orange-coat-with-black-and-brown-scarf-5418305.8e1fa2d5177ddcfaaccd.webp",
@@ -20,9 +20,9 @@
     "index.html": "/finsweet/index.html",
     "static/media/Shape.svg": "/finsweet/static/media/Shape.3da71202e7d23dbb32a01014f72b8e62.svg",
     "static/media/Marker.svg": "/finsweet/static/media/Marker.72da210ed1e3792471733030a340859a.svg",
-    "main.c6d92617.js.map": "/finsweet/static/js/main.c6d92617.js.map"
+    "main.c7612a39.js.map": "/finsweet/static/js/main.c7612a39.js.map"
   },
   "entrypoints": [
-    "static/js/main.c6d92617.js"
+    "static/js/main.c7612a39.js"
   ]
 }
