@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/finsweet/static/js/main.19716200.js",
+    "main.js": "/finsweet/static/js/main.30021d7e.js",
     "static/media/facade-of-aged-grand-cathedral-with-dome-on-river-shore-5273642.webp": "/finsweet/static/media/facade-of-aged-grand-cathedral-with-dome-on-river-shore-5273642.2cac1d6b36ab97a1f955.webp",
     "static/media/vOeB66Yoriw.webp": "/finsweet/static/media/vOeB66Yoriw.378c4a10edf10f440aff.webp",
     "static/media/3Xmcv5MjZpw.webp": "/finsweet/static/media/3Xmcv5MjZpw.cd64e362b560642afd72.webp",
     "static/media/U_b-eSviHvs.webp": "/finsweet/static/media/U_b-eSviHvs.f2e89ea7615e7b4ed708.webp",
+    "static/media/EMZxDosijJ4.webp": "/finsweet/static/media/EMZxDosijJ4.4f134d0764bae8e495d5.webp",
     "static/media/3Xmcv5MjZpw-1.webp": "/finsweet/static/media/3Xmcv5MjZpw-1.7ca5b5ab2993f949d026.webp",
     "static/media/3MWdi5_6Hrc.webp": "/finsweet/static/media/3MWdi5_6Hrc.4db238e5fe109afd7247.webp",
     "static/media/3MWdi5_6Hrc-1.webp": "/finsweet/static/media/3MWdi5_6Hrc-1.c02ad563b2d4842d34a7.webp",
@@ -25,9 +26,9 @@
     "index.html": "/finsweet/index.html",
     "static/media/Shape.svg": "/finsweet/static/media/Shape.3da71202e7d23dbb32a01014f72b8e62.svg",
     "static/media/Marker.svg": "/finsweet/static/media/Marker.72da210ed1e3792471733030a340859a.svg",
-    "main.19716200.js.map": "/finsweet/static/js/main.19716200.js.map"
+    "main.30021d7e.js.map": "/finsweet/static/js/main.30021d7e.js.map"
   },
   "entrypoints": [
-    "static/js/main.19716200.js"
+    "static/js/main.30021d7e.js"
   ]
 }
